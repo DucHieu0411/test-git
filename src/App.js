@@ -10,6 +10,7 @@ function App() {
       <p>This is branch-dev-a</p>
       <h1>Test Git Stash from branch dev-a</h1>
       <h2>Add text h2 from dev-b</h2>
+      <span>TEST GIT FETCH</span>
       <Footer />
     </div>
   );
